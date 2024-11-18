@@ -1,4 +1,4 @@
-# Dracula for [lazygi](https://github.com/jesseduffield/lazygit)
+# Dracula for [lazygit](https://github.com/jesseduffield/lazygit)
 
 > A dark theme for [lazygit](https://github.com/jesseduffield/lazygit).
 
