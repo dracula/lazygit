@@ -1,19 +1,10 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+### [lazygit](https://github.com/jesseduffield/lazygit)
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+The theme is just some lines in the config file. 
 
-#### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Copy the `theme` block 
+2. Insert the block to your existing lazygit config 
+2. Restart `lazyvim`
+3. Bite! Bloodsucking profit!
